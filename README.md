@@ -2,7 +2,7 @@
 
 Welcome to the 100 Days of Code challenge! This challenge is aimed at improving your coding skills by coding consistently for 100 days.
 
-## Start Date: [Current Date]
+## Start Date: 10th April 2024
 
 ## Languages:
 - JavaScript
@@ -31,13 +31,13 @@ Welcome to the 100 Days of Code challenge! This challenge is aimed at improving 
 - [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 ## Progress Log:
-- [Day 1: [Date] - [Tasks Completed]]
+- [Day 1: 10th April 2024 - [Tasks Completed]]
 - [Day 2: [Date] - [Tasks Completed]]
 - [Day 3: [Date] - [Tasks Completed]]
 - ...
 
 ## About Me:
-I'm [Your Name], a passionate coder eager to enhance my skills and tackle new challenges. Join me on this journey as I strive for improvement and mastery in JavaScript and Python programming!
+I'm Emmanuel Udeji, a passionate coder eager to enhance my skills and tackle new challenges. Join me on this journey as I strive for improvement and mastery in JavaScript and Python programming!
 
 Feel free to fork this repository and customize it for your own 100 Days of Code challenge. Let's code together and make every day count!
 
