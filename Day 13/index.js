@@ -26,3 +26,13 @@ function mostFrequentCharacter(str) {
 const exampleString = "aabbccddeeffgggghhhhiiiiijjjjjkkkkkkkkllllllllmmmmmmmmmmmm";
 const result = mostFrequentCharacter(exampleString);
 console.log(`The most frequent character is: ${result}`);
+
+
+function isAlphabetical(char) {
+    // Convert the character to lowercase or uppercase
+    const lowerChar = char.toLowerCase();
+
+    // Check if the character remains the same after conversion,
+    // indicating that it is an alphabetical character
+    return lowerChar !== char.toUpperCase();
+}
